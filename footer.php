@@ -30,7 +30,7 @@
 				do_action( 'twentyfifteen_credits' );
 			?>
 <center>
-			<?php printf( 'Proudly powered by WordPress. Contact me at:   ')?>
+			<?php printf( '<a href=https://github.com/lyndon160/WPChildTheme> Custom build theme </a> powered by WordPress. Contact me at:   ')?>
 <a href="mailto:l.fawcett1@lancaster.ac.uk?Subject=Website%20Contact" target="_top"><?php printf('l.fawcett1@lancaster.ac.uk')?></a>
 </center>
 
