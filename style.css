@@ -14,7 +14,7 @@
 .sidebar {
                 float: left;
                 margin-right: -100%;
-                max-width: 413px;
+                max-width: 300px;
                 position: relative;
                 width: 20%;
 }
@@ -34,12 +34,15 @@
 		background: white;
                 left: 0;
                 width: 20%;
+                max-width: 300px;
+
                 z-index: 0; /* Fixes flashing bug with scrolling on Safari */
         }
 
         .site {
-                margin: 0 auto;
-                max-width: 1403px;
+                margin: 0%;
+                margin-right: auto;
+		max-width: 1403px;
         }
 
 
