@@ -11,6 +11,48 @@
 */
 
 
+ul{
+	list-style: none;
+}
+
+
+ul.mobile{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.entry-title {
+font-size: 3.9rem;
+}
+
+.entry-content {
+font-size: 1.4rem;
+}
+
+
+
+
+.nav-menu-mobile li a{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #b8babb;
+
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+     margin: 0 auto;
+
+    margin-top: 1%;
+    
+
+}
+
 .custom-logo {
 	max-height: 140px;
 }
@@ -76,8 +118,8 @@
         }
 
         body {
-                font-size: 15px;
-                font-size: 1.5rem;
+                font-size: 12px;
+                font-size: 1rem;
                 line-height: 1.6;
         }
 
@@ -109,6 +151,17 @@ h2.widget-title{
 
 
 }
+
+#mobilemenu{
+	text-align: center;
+	font-weight: 700;
+	font-size:20px;
+
+	
+
+
+}
+
 
 #footer-sidebar {
         padding: 0em;
@@ -193,7 +246,7 @@ margin-right: 2px;
 	dl,
 	dd,
 	table {
-		margin-bottom: 1.6471em;
+		margin-bottom: 0em;
 	}
 
 	blockquote {
@@ -1846,7 +1899,7 @@ margin-right: 2px;
 		font-size: 31px;
 		font-size: 3.1rem;
 		line-height: 1.1613;
-		margin-bottom: 1.1613em;
+		margin-bottom: 0.5em;
 	}
 
 	.entry-content,
@@ -2992,7 +3045,7 @@ margin-right: 2px;
 		font-size: 39px;
 		font-size: 3.9rem;
 		line-height: 1.2308;
-		margin-bottom: 1.2308em;
+		margin-bottom: 0.5em;
 	}
 
 	.entry-content h1,

@@ -48,12 +48,16 @@
 
 		<?php get_sidebar(); ?>
 	</div><!-- .sidebar -->
+	<!-- Mobile menu TODO change to be mobile friendly -->
 
+
+	<div id="mobile center">
 	<div id="mobilemenu" class="mobilemenu">
 				<?php	wp_nav_menu( array(
-						'menu_class'     => 'nav-menu',
+						'menu_class'     => 'nav-menu-mobile',
 						'theme_location' => 'primary',
 					) );
 				?>
+	</div>
 	</div>
 	<div id="content" class="site-content">
