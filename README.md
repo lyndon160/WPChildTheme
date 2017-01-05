@@ -1,5 +1,7 @@
 # WPChildTheme
-For use with WordPress. This repository is a child theme of the 2015 theme.
+A simple minimalistic theme for use with WordPress. This repository is a child theme of the 2015 theme.
+
+![alt tag](https://raw.githubusercontent.com/lyndon160/WPChildTheme/master/screenshot.png)
 
 #Getting started
 
