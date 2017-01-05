@@ -11,6 +11,16 @@
 */
 
 
+
+ul,                                                                                                  
+ol {
+        margin: 0;                                                                 
+}                                                                                                    ul {                                                                                      
+list-style: disc;
+}                                                                                                    
+ol {
+        list-style: decimal;
+}
 ul{
 	list-style: none;
 }
@@ -38,15 +48,15 @@ font-size: 1.4rem;
     list-style: none;
     margin: 0;
     padding: 0;
-    width: 200px;
+    width: 85%;
     background-color: #b8babb;
-
+ border-radius: 5px;
     display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-     margin: 0 auto;
+    margin: 0 auto;
 
     margin-top: 1%;
     
@@ -154,9 +164,9 @@ h2.widget-title{
 
 #mobilemenu{
 	text-align: center;
-	font-weight: 700;
+/*	font-weight: 700;*/
 	font-size:20px;
-
+	margin-bottom:-5%;
 	
 
 
@@ -2223,7 +2233,7 @@ margin-right: 2px;
 	dl,
 	dd,
 	table {
-		margin-bottom: 1.6471em;
+		margin-bottom: 0em;
 	}
 
 	blockquote {
