@@ -3,16 +3,16 @@ A simple minimalistic theme for use with WordPress. This repository is a child t
 
 ![alt tag](https://raw.githubusercontent.com/lyndon160/WPChildTheme/master/screenshot.png)
 
-#Getting started
+# Getting started
 
-##Prerequisite
+## Prerequisite
 To use this theme you must have the lastest (as of January 2017) 2015 wordpress default theme installed.
 
-##Installation
+## Installation
 1. Clone this repository into the wordpress themes folder on your web server.
 
 2. Next go to themes in your wordpress admin panel and select this theme to use it
 
 
-#TODO
+# TODO
 * Improve mobile menu.
